@@ -1,24 +1,12 @@
-# README
+# LineBot 練習
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+參照[只要有心，人人都可以做卡米狗](https://ithelp.ithome.com.tw/users/20107309/ironman/1253) 
+做的LineBot/Heroku/RoR練習
 
-Things you may want to cover:
+* 無分群紀錄 因為只用在單一群組
 
-* Ruby version
+* 有製作後台
 
-* System dependencies
+* 無天氣查詢功能
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
